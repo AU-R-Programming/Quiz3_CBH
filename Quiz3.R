@@ -111,4 +111,4 @@ abline(h = true_theta, col = "red", lwd = 2)  # Add true_theta line
 
 
 #There are differences in wether we include the indication of robust or not
-
+#https://chatgpt.com/share/673f6431-655c-8009-83ea-51633a297800
